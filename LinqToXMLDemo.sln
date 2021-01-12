@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating XML document using
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Querying XML Documents", "Querying XML Documents\Querying XML Documents.csproj", "{91B6DA1B-9E23-4FDD-A10E-0532F10054E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modifying XML Documents", "Modifying XML Documents\Modifying XML Documents.csproj", "{B785C5E3-3C0E-4E86-BA91-9A0120F5A925}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{91B6DA1B-9E23-4FDD-A10E-0532F10054E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91B6DA1B-9E23-4FDD-A10E-0532F10054E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91B6DA1B-9E23-4FDD-A10E-0532F10054E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B785C5E3-3C0E-4E86-BA91-9A0120F5A925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B785C5E3-3C0E-4E86-BA91-9A0120F5A925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B785C5E3-3C0E-4E86-BA91-9A0120F5A925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B785C5E3-3C0E-4E86-BA91-9A0120F5A925}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
