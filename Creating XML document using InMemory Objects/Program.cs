@@ -26,7 +26,7 @@ namespace Creating_XML_document_using_InMemory_Objects
                                 new XElement("TotalMarks", student.TotalMarks))
                             ));
 
-            xmlDocument.Save(@"C:\Users\dell\source\repos\LinqToXMLDemo\Creating XML document using InMemory Objects\Data1.xml");
+            xmlDocument.Save(@"C:\Users\dell\source\repos\LinqToXMLDemo\Creating XML document using InMemory Objects\Data.xml");
         }
     }
 }
