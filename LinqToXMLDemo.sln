@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformXMLToHTML", "Trans
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformXMLToAnotherXmlFormat", "TransformXMLToAnotherXmlFormat\TransformXMLToAnotherXmlFormat.csproj", "{E759B062-2C8E-49D7-A5EE-E06A28EC8825}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidateXMLAgainstXSD", "ValidateXMLAgainstXSD\ValidateXMLAgainstXSD.csproj", "{59674939-5A4B-47B0-8BF9-620C2990481E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{E759B062-2C8E-49D7-A5EE-E06A28EC8825}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E759B062-2C8E-49D7-A5EE-E06A28EC8825}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E759B062-2C8E-49D7-A5EE-E06A28EC8825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59674939-5A4B-47B0-8BF9-620C2990481E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59674939-5A4B-47B0-8BF9-620C2990481E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59674939-5A4B-47B0-8BF9-620C2990481E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59674939-5A4B-47B0-8BF9-620C2990481E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
