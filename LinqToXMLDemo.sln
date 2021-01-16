@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modifying XML Documents", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformXMLToCSV", "TransformXMLToCSV\TransformXMLToCSV.csproj", "{66922354-53B4-40F3-8507-8B028FB6FD60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransformXMLToHTML", "TransformXMLToHTML\TransformXMLToHTML.csproj", "{07EAD4D5-71DB-42A6-B1A0-0E0655DAAE8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{66922354-53B4-40F3-8507-8B028FB6FD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66922354-53B4-40F3-8507-8B028FB6FD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66922354-53B4-40F3-8507-8B028FB6FD60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EAD4D5-71DB-42A6-B1A0-0E0655DAAE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EAD4D5-71DB-42A6-B1A0-0E0655DAAE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EAD4D5-71DB-42A6-B1A0-0E0655DAAE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EAD4D5-71DB-42A6-B1A0-0E0655DAAE8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
